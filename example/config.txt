@@ -1,0 +1,2 @@
+Prefix plugins/DESeqHetero/example/
+Plugin DESeqHetero inputfile merged/counts outputfile ./
